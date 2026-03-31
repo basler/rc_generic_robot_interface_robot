@@ -40,7 +40,7 @@ Complete Python reference implementation demonstrating the GRI protocol.
 
 The GRI consists of a TCP socket server integrated into the firmware that handles all REST-API interactions and communicates with robot controllers using a fixed-length binary protocol. Robot-side implementations connect to this server and exchange standardized messages to control vision workflows.
 
-For detailed architecture information, refer to the [official GRI documentation](https://doc.rc-cube.com/latest/en/gri.html).
+For detailed architecture information, refer to the [official GRI documentation](https://docs.baslerweb.com/stereovisard/rc_cube/en/gri).
 
 ## Adding New Robot Support
 
